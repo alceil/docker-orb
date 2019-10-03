@@ -3,7 +3,7 @@
 <!--
 	thank you for contributing to CircleCI Orbs!
 	before submitting your request, please go through the following
-	items and place an x in the [ ] if they have been completed
+	items and place an x in the [ ] if they have been completed.please subscribe for more events.
 -->
 
 - [ ] All new jobs, commands, executors, parameters have descriptions.
