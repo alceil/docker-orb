@@ -30,5 +30,7 @@ RUN apt-get update && apt-get install -y \
 	unzip \
 	wget \
 	zip
+	cat\
+	man\
 
 WORKDIR /root/project
